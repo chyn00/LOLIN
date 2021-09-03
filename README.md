@@ -136,6 +136,11 @@
 >   - 새로고침을 눌러 유저들의 실시간 접속 여부 확인
 >   - 유저를 클릭하여 1:1 채팅하러 가기
 
+<br/>
+>### Back-End 설계도
+>![image](https://user-images.githubusercontent.com/79440419/131975911-0cd0de83-ca68-493f-9701-9e799cb9eb6c.png)
+
+
 ![스크린샷 2021-04-11 오후 9 43 11](https://user-images.githubusercontent.com/45623764/114310479-d1bf4300-9b25-11eb-9df0-350806788cc8.png)
 
 <br/>
