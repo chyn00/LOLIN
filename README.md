@@ -81,8 +81,9 @@
 <br/><br/><br/>
 
 <br/>
+
 ## 🛠 백엔드 설계도
-![image](https://user-images.githubusercontent.com/79440419/131975911-0cd0de83-ca68-493f-9701-9e799cb9eb6c.png)
+![image](https://user-images.githubusercontent.com/79440419/131976218-4b3fc13b-7fe4-45eb-b2a0-15aeff882332.png)
 
 
 ## 🛠 와이어프레임
