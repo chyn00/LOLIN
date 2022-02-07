@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-## 🔎 [롤린(LoLIN)](http://j4a104.p.ssafy.io:8080/)  보러가기<br/>
+## 🔎 [롤린(LoLIN)]<br/>
 
 - 테스트 ID : giga1615    테스트 PW : qqqq1111@
 
